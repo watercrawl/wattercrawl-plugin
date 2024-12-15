@@ -1,6 +1,6 @@
 # Watercrawl Plugin
 
-[![PyPI version](https://badge.fury.io/py/watercrawl-plugin.svg)](https://badge.fury.io/py/watercrawl-plugin)
+[![PyPI version](https://badge.fury.io/py/watercrawl-openapi.svg)](https://badge.fury.io/py/watercrawl-plugin)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
