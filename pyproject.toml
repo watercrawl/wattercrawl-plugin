@@ -1,6 +1,9 @@
 [project]
 name = "watercrawl-plugin"
-version = "0.0.2"
+version = "0.0.3"
+dependencies = [
+    'jsonschema==4.23.0'
+]
 authors = [
   { name="AmirMohsen Asaran", email="info@watercrawl.ai" },
 ]
